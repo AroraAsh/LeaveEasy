@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LeaveEasy</string>
+    <string name="activity_login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email ID</string>
+    <string name="login">Login</string>
+</resources>
